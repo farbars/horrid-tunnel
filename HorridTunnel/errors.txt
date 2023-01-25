@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 137: expected ':' not found.
+    label knife
+               ^
+
+File "game/script.rpy", line 157: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Yes"
+         ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Jan 25 17:30:48 2023
